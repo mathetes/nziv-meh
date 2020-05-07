@@ -4936,7 +4936,7 @@ blockquote {
 .page {
   position: relative;
   overflow: hidden;
-  min-height: 100vh;
+  min-height: 15vh;
   opacity: 0;
 
   &.fadeIn {
